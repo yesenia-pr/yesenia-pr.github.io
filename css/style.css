@@ -1,0 +1,74 @@
+/*
+ * Globals
+ */
+
+@font-face {
+}
+
+body {
+	color: #555;
+	height:100%;
+	margin:0;
+	background:#232323;
+}
+
+h1, .h1,
+h2, .h2,
+h3, .h3,
+h4, .h4,
+h5, .h5,
+h6, .h6 {
+  margin-top: 0;
+  font-weight:400 !important;
+}
+
+h1 {
+	font-size:25px;
+	color:#323232;
+	font-weight:400;
+}
+h2 {
+	font-size:20px;
+	float:left;
+	margin-bottom: 40px;
+	color:#323232;
+	font-weight:300 !important;
+}
+h3 {
+	font-size:18px;
+	color:#323232;
+}
+h4 {
+	font-size:16px;
+	color:#323232;
+}
+
+.main {
+	text-align:center;
+	width:100%;
+	padding-top:13%;
+}
+.main img {
+	display:inline-block;
+}
+
+.links {
+	width:70%;
+	display:inline-block;
+	margin-top:60px;
+}
+
+.links img {
+	float:left;
+	display:inline;
+}
+
+.contact {
+
+}
+.email {
+}
+
+.contact,.email,.phone {
+	padding:30px;
+}
