@@ -6,10 +6,10 @@
 }
 
 body {
-	color: #555;
+	color: rgb(0, 0, 0);
 	height:100%;
 	margin:0;
-	background:#232323;
+	background:#000000;
 }
 
 h1, .h1,
@@ -36,7 +36,9 @@ h2 {
 }
 h3 {
 	font-size:18px;
-	color:#323232;
+	color:#ffffff;
+	margin-bottom: 25px;
+	margin-top: 25px;
 }
 h4 {
 	font-size:16px;
@@ -71,4 +73,8 @@ h4 {
 
 .contact,.email,.phone {
 	padding:30px;
+}
+
+.underline {
+	border-bottom: 2px solid white;
 }
