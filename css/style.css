@@ -78,3 +78,7 @@ h4 {
 .underline {
 	border-bottom: 2px solid white;
 }
+
+hr{
+	width: 10%
+}
